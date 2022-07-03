@@ -24,6 +24,7 @@ body {
     color: grey;
 }
 
+
 /* LINKS */
 
 .link--cta {
@@ -31,4 +32,9 @@ body {
     color: aquamarine;
 }
 
+.footer {
+    font-size: 21px;
+    text-align: right;
+    color: grey;
+}
 
